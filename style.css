@@ -1,0 +1,34 @@
+h1{
+    color:black;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-align: center;
+    border:10px;
+}
+button{
+    color:white;
+    background-color: black;
+}
+body{
+    background-color: rgb(255,255,0);
+}
+.myclass{
+    color:darkred;
+    font-weight: 900;
+    font-family: cursive;
+    font-size: 25px;
+}
+#box{
+    background-color: blue;
+    color:white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 200px;
+    width:300px;
+    border:10px;
+    border-color: black;
+
+}
+a{
+    text-decoration: none;
+}
